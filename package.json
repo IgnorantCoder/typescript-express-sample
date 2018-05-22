@@ -1,0 +1,23 @@
+{
+  "name": "typescript-express-sample",
+  "version": "1.0.0",
+  "description": "Sample express project with typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgnorantCoder/typescript-express-sample.git"
+  },
+  "keywords": [
+    "express",
+    "typescript"
+  ],
+  "author": "IgnorantCoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IgnorantCoder/typescript-express-sample/issues"
+  },
+  "homepage": "https://github.com/IgnorantCoder/typescript-express-sample#readme"
+}
